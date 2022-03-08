@@ -43,5 +43,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate and document the changes made.
 
+## Acknowledgements
+
+Special thanks to [MakeAReadMe](https://www.makeareadme.com) which template and information I used when developing this README.
+Primes was inspired by [Primel](https://converged.yt/primel/) Web Game, which you can play by clickin on its name.
+
 ## License
-[GNU GPLv3]()
+[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
