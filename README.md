@@ -45,7 +45,8 @@ Please make sure to update tests as appropriate and document the changes made.
 
 ## Acknowledgements
 
-Special thanks to [MakeAReadMe](https://www.makeareadme.com) which template and information I used when developing this README.
+Special thanks to [MakeaREADME](https://www.makeareadme.com) which template and information I used when developing this README.
+
 Primes was inspired by [Primel](https://converged.yt/primel/) Web Game, which you can play by clickin on its name.
 
 ## License
