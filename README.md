@@ -4,28 +4,34 @@ C++ algorithm to list and score prime numbers for the web game Primel
 
 ## Installation
 
+Windows
+
+1. Download and install a C++ compiler.
+2. Download the Primes source code and save it as a ```.cpp``` file.
+3. Open CMD and navigate to the folder containing the source code.
+4. Once in the targeted folder, compile the program by typing ```gcc main.cpp -o <preferred-name>.exe``` in the console. (preferred-name ca be anyting, ex. primes.exe).
+
 Linux / MacOS
 
-1. Navigate to the folder of the Source Code of Primes (Either via terminal or GUI).
-2. Once in the targeted folder, open terminal and compile the program by typing ```g++ -o <preferred-name> main.cpp```. (preferred-name can be anything, ex. primes).
+1. Download the Primes source code and save it as a ```.cpp``` file.
+2. Navigate to the folder of the Source Code of Primes (Either via terminal or GUI).
+3. Once in the targeted folder, open terminal and compile the program by typing ```g++ -o <preferred-name> main.cpp```. (preferred-name can be anything, ex. primes).
 
 ## Usage
 
 Windows
 
-1. Double click Primes.exe to start, a CMD window with instructions should appear.
-2. Input a 5-digit prime number from the list provided or from your own selection.
-3. Input the 5-digit selected prime number into the _Primel_ web game.
-4. Input a 5-digit number that represents the output of the _Primel_ web game. That digit indicates which numbers are present in the mystery prime number.
-5. Press enter. Primes will update the score of each prime number and list the new top 20 matches.
-6. Choose one of the listed prime numbers and repeat previous steps until mystery prime number is found.
+1. Navigate to the folder where the compiled Primes file is located.
+2. Once in the targeted folder, open CMD and type ```<preferred-name>.exe``` or double click the ```<preferred-name>.exe``` file from file explorer.
+3. Primes will start either in the CMD window where the command was typed, or will open a new CMD window if opened through file explorer.
+4. Follow the instructions displayed upon starting Primes to use it successfully.
 
 Linux / MacOS
 
 1. Navigate to the folder where the compiled Primes file is located.
 2. Once in the targeted folder, open terminal and type ```./<preferred-name>```.
 3. Primes should start in the same terminal window where the previous command was entered.
-4. Follow the instructions displayed upon starting Primes.
+4. Follow the instructions displayed upon starting Primes to use it sucessfully.
 
 ## Troubleshooting
 
