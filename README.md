@@ -25,13 +25,17 @@ Linux / MacOS
 1. Navigate to the folder where the compiled Primes file is located.
 2. Once in the targeted folder, open terminal and type ```./<preferred-name>```.
 3. Primes should start in the same terminal window where the previous command was entered.
+4. Follow the instructions displayed upon starting Primes.
 
+## Troubleshooting
+
+If you encounter any problems during compiling or using Primes, please open an issue and describe the problem found. Sample data or screenshots will be extremely helpful troubleshooting the problem.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or add to Primes.
 
-Please make sure to update tests as appropriate.
+Please make sure to update tests as appropriate and document the changes made.
 
 ## License
 [GNU GPLv3]()
