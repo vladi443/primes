@@ -47,7 +47,7 @@ Please make sure to update tests as appropriate and document the changes made.
 
 Special thanks to [MakeaREADME](https://www.makeareadme.com) which template and information I used when developing this README.
 
-Primes was inspired by [Primel](https://converged.yt/primel/) Web Game, which you can play by clickin on its name.
+Primes was inspired by [Primel](https://converged.yt/primel/) Web Game, which you can play by clicking on its name.
 
 ## License
 [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
