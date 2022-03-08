@@ -4,7 +4,10 @@ C++ algorithm to list and score prime numbers for the web game Primel
 
 ## Installation
 
-TBD
+Linux / MacOS
+
+1. Navigate to the folder of the Source Code of Primes (Either via terminal or GUI).
+2. Once in the targeted folder, open terminal and compile the program by typing ```g++ -o <preferred-name> main.cpp```. (preferred-name can be anything, ex. primes).
 
 ## Usage
 
@@ -19,8 +22,9 @@ Windows
 
 Linux / MacOS
 
-1. Navigate to the folder of the Source Code of Primes (Either via terminal or GUI).
-2. Once in the targeted folder, open terminal and type ```g++ -o <preferred-name> main.cpp```. (<preferred-name> can be anything, ex. primes)
+1. Navigate to the folder where the compiled Primes file is located.
+2. Once in the targeted folder, open terminal and type ```./<preferred-name>```.
+3. Primes should start in the same terminal window where the previous command was entered.
 
 
 ## Contributing
