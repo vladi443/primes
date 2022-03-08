@@ -17,6 +17,11 @@ Windows
 5. Press enter. Primes will update the score of each prime number and list the new top 20 matches.
 6. Choose one of the listed prime numbers and repeat previous steps until mystery prime number is found.
 
+Linux / MacOS
+
+1. Navigate to the folder of the Source Code of Primes (Either via terminal or GUI).
+2. Once in the targeted folder, open terminal and type '''g++ -o <name-you-want-to-give> source.cpp'''
+
 
 ## Contributing
 
