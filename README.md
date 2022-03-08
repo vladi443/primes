@@ -20,7 +20,7 @@ Windows
 Linux / MacOS
 
 1. Navigate to the folder of the Source Code of Primes (Either via terminal or GUI).
-2. Once in the targeted folder, open terminal and type '''g++ -o <name-you-want-to-give> source.cpp'''
+2. Once in the targeted folder, open terminal and type ```g++ -o <preferred-name> main.cpp```. (<preferred-name> can be anything, ex. primes)
 
 
 ## Contributing
