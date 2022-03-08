@@ -8,12 +8,12 @@ TBD
 
 ## Usage
 
-###Windows
+Windows
 
 1. Double click Primes.exe to start, a CMD window with instructions should appear.
 2. Input a 5-digit prime number from the list provided or from your own selection.
-3. 
-4. Input a 5-digit number to represent the numbers present in the mystery number.
+3. Input the 5-digit selected prime number into the _Primel_ web game.
+4. Input a 5-digit number that represents the output of the _Primel_ web game. That digit indicates which numbers are present in the mystery prime number.
 5. Press enter. Primes will update the score of each prime number and list the new top 20 matches.
 6. Choose one of the listed prime numbers and repeat previous steps until mystery prime number is found.
 
