@@ -4,18 +4,7 @@ C++ algorithm to list and score prime numbers for the web game Primel
 
 ## Installation
 
-Windows
-
-1. Download and install a C++ compiler.
-2. Download the Primes source code and save it as a ```.cpp``` file.
-3. Open CMD and navigate to the folder containing the source code.
-4. Once in the targeted folder, compile the program by typing ```gcc main.cpp -o <preferred-name>.exe``` in the console. (preferred-name ca be anyting, ex. primes.exe).
-
-Linux / MacOS
-
-1. Download the Primes source code and save it as a ```.cpp``` file.
-2. Navigate to the folder of the Source Code of Primes (Either via terminal or GUI).
-3. Once in the targeted folder, open terminal and compile the program by typing ```g++ -o <preferred-name> main.cpp```. (preferred-name can be anything, ex. primes).
+Refer to the Compile Code instructions located at https://ziggurat.systems/docs/compile-instructions/.
 
 ## Usage
 
